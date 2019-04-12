@@ -1,1 +1,1 @@
-github "LoopKit/LoopKit" "master"
+github "LoopKit/LoopKit" ~> 2.2
